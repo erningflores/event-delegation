@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+a{
+    cursor: pointer;
+}
+
+a:hover{
+    background-color: aqua;
+    color: black;
+}
+
